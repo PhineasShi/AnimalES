@@ -1,6 +1,8 @@
 #include "expertSystem.h"
-
-int main()
+ES::ES()
 {
-	ES es;
+}
+
+ES::~ES()
+{
 }
